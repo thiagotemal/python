@@ -1,0 +1,21 @@
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+
+# Ignore compiled JavaScript files
+*.js.map
+
+# Ignore node_modules directory in any subdirectory
+**/node_modules/
+
+# Ignore virtual environment directories in any subdirectory
+**/.venv/
+
+# Ignore log files in any subdirectory
+**/*.log
+
+# Ignore any other files or directories you want to ignore
+
+
+**/.venv/**
+
