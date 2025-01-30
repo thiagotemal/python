@@ -23,3 +23,6 @@
 funcoes/azure/.vscode/
 
 **/.vscode/**
+
+**/appsettings.json
+**/local.settings.json

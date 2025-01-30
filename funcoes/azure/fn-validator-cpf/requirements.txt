@@ -1,0 +1,5 @@
+annotated-types==0.7.0
+azure-functions==1.21.3
+pydantic==2.10.6
+pydantic_core==2.27.2
+typing_extensions==4.12.2

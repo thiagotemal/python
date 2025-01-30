@@ -1,0 +1,9 @@
+
+.env
+.local
+.env.local
+.vs
+.vscode
+host.json
+local.settings.json
+tests/
